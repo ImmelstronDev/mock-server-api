@@ -7,7 +7,8 @@
     "ammo": "5+1/10",
     "damage": 74,
     "distance": 64,
-    "reload": 3
+    "reload": 3,
+    "id": 1
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Bornheim-No3-Extended.jpg",
@@ -17,7 +18,8 @@
     "ammo": "8+1/10",
     "damage": 74,
     "distance": 6,
-    "reload": 8
+    "reload": 8,
+    "id": 2
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/10/Bornheim-No3-Match.jpg",
@@ -27,7 +29,8 @@
     "ammo": "5+1/10",
     "damage": 80,
     "distance": 68,
-    "reload": 3
+    "reload": 3,
+    "id": 3
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Caldwell-Conversion-Pistol.jpg",
@@ -37,7 +40,8 @@
     "ammo": "6/18",
     "damage": 104,
     "distance": 84,
-    "reload": 11
+    "reload": 11,
+    "id": 4
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Caldwell-Conversion-Chain-Pistol.jpg",
@@ -47,7 +51,8 @@
     "ammo": "17/18",
     "damage": 104,
     "distance": 84,
-    "reload": 28
+    "reload": 28,
+    "id": 5
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Caldwell-Conversion-Uppercut.jpg",
@@ -57,7 +62,8 @@
     "ammo": "6/9",
     "damage": 126,
     "distance": 115,
-    "reload": 15
+    "reload": 15,
+    "id": 6
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Caldwell-Pax.jpg",
@@ -67,7 +73,8 @@
     "ammo": "6/12",
     "damage": 110,
     "distance": 86,
-    "reload": 11
+    "reload": 11,
+    "id": 7
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Dolch-96.jpg",
@@ -77,7 +84,8 @@
     "ammo": "10/10",
     "damage": 97,
     "distance": 78,
-    "reload": 6
+    "reload": 6,
+    "id": 8
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Dolch-96-Precision.jpg",
@@ -87,7 +95,8 @@
     "ammo": "10/10",
     "damage": 97,
     "distance": 78,
-    "reload": 6
+    "reload": 6,
+    "id": 9
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/LeMat-Mark-II.jpg",
@@ -97,7 +106,8 @@
     "ammo": "9/18",
     "damage": 97,
     "distance": 79,
-    "reload": 15
+    "reload": 15,
+    "id": 10
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Nagant-M1895.jpg",
@@ -107,7 +117,8 @@
     "ammo": "7/21",
     "damage": 91,
     "distance": 73,
-    "reload": 12
+    "reload": 12,
+    "id": 11
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Nagant-M1895-Deadeye.jpg",
@@ -117,7 +128,8 @@
     "ammo": "7/21",
     "damage": 91,
     "distance": 73,
-    "reload": 13
+    "reload": 13,
+    "id": 12
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Nagant-M1895-Officer.jpg",
@@ -127,7 +139,8 @@
     "ammo": "7/14",
     "damage": 91,
     "distance": 73,
-    "reload": 12
+    "reload": 12,
+    "id": 13
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Nagant-M1895-Officer-Carbine.jpg",
@@ -137,7 +150,8 @@
     "ammo": "7/14",
     "damage": 104,
     "distance": 125,
-    "reload": 12
+    "reload": 12,
+    "id": 14
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2020/12/Nagant-M1895-Officer-Carbine-Deadeye_small.jpg",
@@ -147,7 +161,8 @@
     "ammo": "7/14",
     "damage": 104,
     "distance": 125,
-    "reload": 12
+    "reload": 12,
+    "id": 15
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Nagant-M1895-Precision.jpg",
@@ -157,7 +172,8 @@
     "ammo": "7/21",
     "damage": 91,
     "distance": 73,
-    "reload": 13
+    "reload": 13,
+    "id": 16
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Nagant-M1895-Silencer.jpg",
@@ -167,7 +183,8 @@
     "ammo": "7/21",
     "damage": 91,
     "distance": 56,
-    "reload": 12
+    "reload": 12,
+    "id": 17
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2019/08/Quad-Derringer.jpg",
@@ -177,7 +194,8 @@
     "ammo": "4/12",
     "damage": 74,
     "distance": 60,
-    "reload": 3
+    "reload": 3,
+    "id": 18
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2021/10/Scottfield-Model-N3-small.jpg",
@@ -187,7 +205,8 @@
     "ammo": "6/12",
     "damage": 107,
     "distance": 85,
-    "reload": 9
+    "reload": 9,
+    "id": 19
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2022/01/Scottfield-Model-3-Precision_small.jpg",
@@ -197,7 +216,8 @@
     "ammo": "6/12",
     "damage": 107,
     "distance": 85,
-    "reload": 9
+    "reload": 9,
+    "id": 20
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2022/01/Scottfield-Model-3-Spitfire_small.jpg",
@@ -207,7 +227,8 @@
     "ammo": "6/12",
     "damage": 107,
     "distance": 85,
-    "reload": 9
+    "reload": 9,
+    "id": 21
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2022/01/Scottfield-Model-3-Swift_small.jpg",
@@ -217,7 +238,8 @@
     "ammo": "6/12",
     "damage": 107,
     "distance": 85,
-    "reload": 4
+    "reload": 4,
+    "id": 22
   },
   {
     "img": "https://huntzone.varshevsky.com/wp-content/uploads/2022/12/Sparks-Pistol_small.jpg",
@@ -227,6 +249,7 @@
     "ammo": "1/14",
     "damage": 149,
     "distance": 150,
-    "reload": 4
+    "reload": 4,
+    "id": 23
   }
 ]
